@@ -50,7 +50,7 @@ STEP-5: Read the characters row wise or column wise in the former order to get t
  }
 ~~~
 # OUTPUT
-![cry ex 5](https://github.com/user-attachments/assets/7ffc38ab-ca35-4ac3-9b4f-46fe47cbbc4a)
+<img width="1834" height="780" alt="image" src="https://github.com/user-attachments/assets/f55af3ab-75e6-4e70-92fc-9c1f0b3eedd4" />
 
 # RESULT
 The program is executed successfully
